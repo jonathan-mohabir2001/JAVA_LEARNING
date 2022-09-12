@@ -51,3 +51,9 @@ public class UseAccount {
     }
     
 }
+/*
+This concludes the basic basic practise of one class created with some fields, 
+and then creating two objects from that class with the fields given some 
+actual values. 
+
+*/
