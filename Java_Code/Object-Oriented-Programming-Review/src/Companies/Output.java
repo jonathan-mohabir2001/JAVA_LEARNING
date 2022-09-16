@@ -43,7 +43,9 @@ public class Output {
         System.out.println("");
         out.print(company02.profitOrganization); 
         
-        
+        /*
+        End of basic practise of creating objects on my own. 
+        */
     }
     
 }
