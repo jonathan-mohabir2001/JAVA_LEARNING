@@ -25,7 +25,7 @@ public class Output {
         
         item1.displayInfo();
         
-        /*s
+        /*
         The display info method was called and has succesfully returned all 
         fields created within the object. 
         */
