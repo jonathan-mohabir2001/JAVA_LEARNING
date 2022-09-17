@@ -12,7 +12,17 @@ public class Vehicle {
     public int modelYear; 
     public double milesDriven; 
     
+  /*
+    To understand further, we have three fields 
+    all are public. Easy. 
+   */
+    
    
+    /*
+    Instead of repeating the out.print method within the 
+    output class, a basic method is already included into the 
+    return info method here. 
+    */
     public void returnInfo(){
         
         out.print( "The name of this vehicle is:"+name);
